@@ -39,4 +39,4 @@ Move the cursor with subtle head motions and trigger left/right clicks by blinki
 1. **Clone** the repo  
    ```bash
    git clone https://github.com/dbudanec/HeadBlinkMouse.git
-   cd HeadBlinkControl
+   cd HeadBlinkMouse
