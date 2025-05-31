@@ -1,1 +1,9 @@
+# Core runtime dependencies
+opencv-python        >=4.8.0
+mediapipe            >=0.10.9
+pyautogui            >=0.9.54
 
+# pyautogui helpers (installed automatically, listed for clarity)
+pyscreeze            >=0.1.30
+pygetwindow          >=0.0.9
+mouseinfo            >=0.1.3
